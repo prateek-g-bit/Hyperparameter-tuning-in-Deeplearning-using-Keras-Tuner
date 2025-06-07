@@ -21,7 +21,7 @@ This repository contains a Jupyter Notebook that demonstrates how to perform **h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/prateek-g-bit/Hyperparameter-tuning-in-Deeplearning-using-Keras-Tuner.git
    cd your-repo-name
 ## 📦 Requirements
 Ensure the following packages are installed:
